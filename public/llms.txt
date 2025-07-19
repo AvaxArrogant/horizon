@@ -1,0 +1,2 @@
+## Pages
+- [HyperfueledBlog - AI Blog Automation](/): Automate your WordPress blog with AI-powered content generation from Reddit RSS feeds. Track monetization, optimize SEO, and publish automatically.
